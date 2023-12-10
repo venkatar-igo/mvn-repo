@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.trent.marketplace</groupId>
+  <artifactId>marketplace-common-lib</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231210052433</lastUpdated>
+  </versioning>
+</metadata>
