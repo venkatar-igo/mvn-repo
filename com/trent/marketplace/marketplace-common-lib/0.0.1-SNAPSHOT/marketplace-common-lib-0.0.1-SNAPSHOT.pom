@@ -151,6 +151,17 @@
     		<version>${jjwt-api.version}</version>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+    <!--  <repository>
+        <id>marketplacevenkat-MarketplacecommonLib</id>
+        <url>https://marketplacevenkat-159444883816.d.codeartifact.us-east-1.amazonaws.com/maven/MarketplacecommonLib/</url>
+      </repository> -->
+	  <repository>
+	  <id>marketplace-common-lib</id>
+			<name>marketplace-common-lib</name>
+			<url>https://github.com/venkatar-igo/mvn-repo/tree/main/</url>
+		</repository>	
+    </distributionManagement>
 
 	<build>
 		<pluginManagement>
